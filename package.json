@@ -1,0 +1,26 @@
+{
+  "name": "ryori",
+  "version": "1.0.0",
+  "description": "a simple front-end development toolkit",
+  "main": "init.js",
+  "scripts": {
+    "test": "npm run jest"
+  },
+  "keywords": [
+    "toolkit"
+  ],
+  "author": "Bobby Wang",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "cross-spawn": "^6.0.5",
+    "fs-extra": "^7.0.0",
+    "react": "16.6.0",
+    "react-dom": "16.6.0",
+    "react-helmet": "5.2.0",
+    "yargs": "^12.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.5"
+  }
+}
